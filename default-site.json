@@ -1,11 +1,11 @@
 {
   "version": 1,
   "code": {
-    "owner": "{ORG}",
-    "repo": "{REPO}",
+    "owner": "larryliss",
+    "repo": "aem-boilerplate-starter",
     "source": {
       "type": "github",
-      "url": "https://github.com/{ORG}/{REPO}"
+      "url": "https://github.com/larryliss/aem-boilerplate-starter"
     }
   },
   "content": {
