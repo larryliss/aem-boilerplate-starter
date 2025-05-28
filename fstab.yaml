@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/larryliss/aem-boilerplate-starter/
+    url: https://drive.google.com/drive/folders/1Zw1-ovCvGhpJvuxJZ__J922nLpJcV0KJ
     type: markup
 
 folders:
