@@ -19,7 +19,7 @@ import {
 export async function loadFragment(path) {
   if (path && path.startsWith('/')) {
     const root = getRootPath().replace(/\/$/, '');
-    const url = `${root}${path}.html`;
+    const url = `${root}${path}.plain.html`;
     const resp = await fetch(url);
     if (resp.ok) {
       const main = document.createElement('main');
