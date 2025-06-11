@@ -1,7 +1,7 @@
 mountpoints:
   /:
-    url: https://content.da.live/larryliss/aem-boilerplate-starter.git/
+    url: https://content.da.live/larryliss/aem-boilerplate-starter/
     type: markup
-
+NPM ST
 folders:
   /products/: /products/default
