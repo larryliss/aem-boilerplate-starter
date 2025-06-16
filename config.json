@@ -11,6 +11,7 @@
           "ac-scope-locale": "en-US"
         }
       },
+
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Production",
